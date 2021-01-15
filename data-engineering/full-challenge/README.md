@@ -1,4 +1,4 @@
-# Creditas Analytics Data Engineering Challenge
+# Analytics Data Engineering Challenge
 
 **AVISO SOBRE O TESTE SER EM INGLÊS**
 
@@ -6,7 +6,7 @@ Esse teste está em inglês pois acreditamos que a **leitura** em inglês é par
 
 ## Introduction
 
-Hi! We're glad to know you intend to work with us in the Creditas Data Engineering team. It means a lot you're taking time to do this programming assignment! :smiley:
+Hi! We're glad to know you intend to work with us in the Data Engineering team. It means a lot you're taking time to do this programming assignment! :smiley:
 
 This challenge mimics a task we ourselves deal with on a daily basis and it was designed to asses your coding skills. We expect you to deliver a professional solution, taking into account correctness, performance and code organization. :nerd_face:
 
@@ -23,7 +23,7 @@ This challenge is about preparing data to analyze digital media effectivenes on 
  - *Ad Impressions*: one single occurrence of displaying an ad to a potential customer;
  - *Clicks*: one single click on the ad that leads the customer to the company's website;
 
-### Creditas conversion funnel
+### Conversion funnel
 
 We can look at the path the customers goes from getting to know our company to converting into a customer as a multi-step process funnel. It is a funnel because for each further step we look, we will progressively find less people involved. The following image illustrates a very simplified version of the conversion funnel we have here at Creditas.
 
